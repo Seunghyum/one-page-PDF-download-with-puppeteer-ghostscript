@@ -1,0 +1,14 @@
+{
+  "name": "onepage-pdf-print-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "print": "node index.js"
+  },
+  "dependencies": {
+    "ghostscript4js": "^3.1.1",
+    "minimist": "^1.2.0",
+    "puppeteer": "^1.17.0"
+  }
+}
